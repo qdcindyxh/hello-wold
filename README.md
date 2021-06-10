@@ -1,1 +1,1 @@
-# hello-wold
+# hello-world
